@@ -9,7 +9,7 @@ humandate: "April 30 - May 01, 2018"
 humantime: "9:00am - 4:00pm"
 startdate: 2018-04-30
 enddate: 2018-05-01
-instructor: ["Alex Razoumov", "TBD"]
+instructor: ["Alex Razoumov", "Mostafa Ebrahimi"]
 helper: ["TBD"]
 email: ["alex.razoumov@westgrid.ca"]
 collaborative_notes: https://docs.google.com/document/d/1nrsJezzya1g8LVBTyM4li43lDKS2Vb_Rwsu9eOjxWPs
