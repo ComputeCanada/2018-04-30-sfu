@@ -4,9 +4,9 @@ carpentry: "swc"
 venue: "Software Carpentry at Simon Fraser University"
 country: "ca"
 language: "en"
-latlng: "49.277537,-122.914015"
+latlng: "49.2796,-122.918934"
 humandate: "April 30 - May 01, 2018"
-humantime: "9:00am - 4:00pm"
+humantime: "9:30am - 4:30pm"
 startdate: 2018-04-30
 enddate: 2018-05-01
 instructor: ["Mostafa Ebrahimi", "Alex Garnett", "Alex Razoumov"]
@@ -87,7 +87,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}
-  Get directions with
+  Burnaby, Bennett Library, Rm 7200. Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
