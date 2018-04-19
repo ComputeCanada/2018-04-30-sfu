@@ -87,7 +87,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}
-  Burnaby, Bennett Library, Rm 7200. Get directions with
+  Burnaby, SFU, Bennett Library, Research Commons, Rm 7010. Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
