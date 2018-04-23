@@ -9,7 +9,7 @@ humandate: "April 30 - May 01, 2018"
 humantime: "9:30am - 4:30pm"
 startdate: 2018-04-30
 enddate: 2018-05-01
-instructor: ["Vanessa Guerra", "Alex Garnett", "Alex Razoumov"]
+instructor: ["Vanessa Guerra", "Alex Garnett", "Alex Razoumov", "Marie-Helene Burle"]
 helper: ["TBD"]
 email: ["alex.razoumov@westgrid.ca"]
 collaborative_notes: https://docs.google.com/document/d/1nrsJezzya1g8LVBTyM4li43lDKS2Vb_Rwsu9eOjxWPs
