@@ -9,8 +9,8 @@ humandate: "April 30 - May 01, 2018"
 humantime: "9:30am - 4:30pm"
 startdate: 2018-04-30
 enddate: 2018-05-01
-instructor: ["Mostafa Ebrahimi", "Alex Garnett", "Alex Razoumov"]
-helper: ["Vanessa Guerra"]
+instructor: ["Vanessa Guerra", "Alex Garnett", "Alex Razoumov"]
+helper: ["TBD"]
 email: ["alex.razoumov@westgrid.ca"]
 collaborative_notes: https://docs.google.com/document/d/1nrsJezzya1g8LVBTyM4li43lDKS2Vb_Rwsu9eOjxWPs
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
